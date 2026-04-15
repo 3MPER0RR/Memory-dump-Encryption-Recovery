@@ -2,7 +2,7 @@
 """
 ╔═══════════════════════════════════════════════════════════╗
 ║                   Memory & Encryption Recovery            ║
-║                    Linux / macOS Edition                  ║
+║                    Linux / macOS                          ║
 ╚═══════════════════════════════════════════════════════════╝
 """
 
@@ -50,7 +50,7 @@ def banner():
     print(f"""{C.BOLD}{C.CYAN} +-+-+-+-+-+-+ +-+ +-+-+-+-+-+-+-+-+-+-+ +-+-+-+-+-+-+-+-+
  |M|e|m|o|r|y| |&| |E|n|c|r|y|p|t|i|o|n| |R|e|c|o|v|e|r|y|
  +-+-+-+-+-+-+ +-+ +-+-+-+-+-+-+-+-+-+-+ +-+-+-+-+-+-+-+-+
-{C.RESET}{C.DIM}          Memory & Encryption Recovery Toolkit
+{C.RESET}{C.DIM}     Memory & Encryption Recovery Toolkit
                         Linux / macOS
                    ⚠  For authorized use only ⚠{C.RESET}
 """)
